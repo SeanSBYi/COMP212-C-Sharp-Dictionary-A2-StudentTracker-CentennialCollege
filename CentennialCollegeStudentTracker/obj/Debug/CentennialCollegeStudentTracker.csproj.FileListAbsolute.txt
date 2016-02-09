@@ -1,0 +1,9 @@
+c:\users\syi\documents\visual studio 2013\Projects\CentennialCollegeStudentTracker\CentennialCollegeStudentTracker\bin\Debug\CentennialCollegeStudentTracker.exe.config
+c:\users\syi\documents\visual studio 2013\Projects\CentennialCollegeStudentTracker\CentennialCollegeStudentTracker\bin\Debug\CentennialCollegeStudentTracker.exe
+c:\users\syi\documents\visual studio 2013\Projects\CentennialCollegeStudentTracker\CentennialCollegeStudentTracker\bin\Debug\CentennialCollegeStudentTracker.pdb
+c:\users\syi\documents\visual studio 2013\Projects\CentennialCollegeStudentTracker\CentennialCollegeStudentTracker\obj\Debug\CentennialCollegeStudentTracker.csprojResolveAssemblyReference.cache
+c:\users\syi\documents\visual studio 2013\Projects\CentennialCollegeStudentTracker\CentennialCollegeStudentTracker\obj\Debug\CentennialCollegeStudentTracker.Form1.resources
+c:\users\syi\documents\visual studio 2013\Projects\CentennialCollegeStudentTracker\CentennialCollegeStudentTracker\obj\Debug\CentennialCollegeStudentTracker.Properties.Resources.resources
+c:\users\syi\documents\visual studio 2013\Projects\CentennialCollegeStudentTracker\CentennialCollegeStudentTracker\obj\Debug\CentennialCollegeStudentTracker.csproj.GenerateResource.Cache
+c:\users\syi\documents\visual studio 2013\Projects\CentennialCollegeStudentTracker\CentennialCollegeStudentTracker\obj\Debug\CentennialCollegeStudentTracker.exe
+c:\users\syi\documents\visual studio 2013\Projects\CentennialCollegeStudentTracker\CentennialCollegeStudentTracker\obj\Debug\CentennialCollegeStudentTracker.pdb
